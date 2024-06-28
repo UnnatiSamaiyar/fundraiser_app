@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190595986110",
+    "project_id": "fundraiser-3d1e8",
+    "storage_bucket": "fundraiser-3d1e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190595986110:android:79e21f107bb29f9c3be4ef",
+        "android_client_info": {
+          "package_name": "com.example.fundraiser_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL86hui0bZAVfyJy2q11a4NvZW98UtUMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
